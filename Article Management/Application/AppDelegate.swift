@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Article Management
 //
-//  Created by Jayz Walker on 12/13/16.
-//  Copyright © 2016 Jayz Walker. All rights reserved.
+//  Created by Sim Fickry on 12/13/16.
+//  Copyright © 2016 HRD. All rights reserved.
 //
 
 import UIKit
